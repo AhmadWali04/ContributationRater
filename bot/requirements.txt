@@ -1,6 +1,10 @@
-# MkDocs, Plugins for Documentation
+# MkDocs, and plugins for docs
 mkdocs
 mkdocs-terminal
 plantuml-markdown
 mkdocs-redirects
 mkdocs-licenseinfo
+
+# Other dependencies / libs
+discord.py
+rich
