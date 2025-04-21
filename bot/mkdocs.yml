@@ -1,0 +1,22 @@
+site_name: Contribot Docs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Commands: "./commands/index.md"
+not_in_nav: |
+  /license.md
+  /changelog.md
+  /faq.md
+  /privacy_policy.md
+theme: terminal
+plugins:
+  - md-to-html
+  - redirects
+  - mkdocs_licenseinfo
+extra_css:
+  - css/custom.css
+extra:
+  version: 1.0.0
+  license:
+    name: MIT License
+    url: https://opensource.org/licenses/MIT

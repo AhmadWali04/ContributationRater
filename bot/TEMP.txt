@@ -1,1 +1,0 @@
-This is a TEMPORARY (TEMP) file, remove me when working in this directory, current `bot`.

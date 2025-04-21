@@ -1,0 +1,6 @@
+# MkDocs, Plugins for Documentation
+mkdocs
+mkdocs-terminal
+plantuml-markdown
+mkdocs-redirects
+mkdocs-licenseinfo
