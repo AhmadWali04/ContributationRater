@@ -13,6 +13,68 @@ plugins:
   - md-to-html
   - redirects
   - mkdocs_licenseinfo
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.blocks.details:
+      types:
+        - name: note
+          class: terminal-alert
+          title: Note
+        - name: info
+          class: "terminal-alert terminal-alert-info"
+          title: Info
+        - name: tip
+          class: 'terminal-alert terminal-alert-success'
+          title: Tip
+        - name: hint
+          class: 'terminal-alert terminal-alert-success'
+          title: Hint
+        - name: success
+          class: 'terminal-alert terminal-alert-success'
+          title: Success
+        - name: check
+          class: 'terminal-alert terminal-alert-success'
+          title: Check
+        - name: done
+          class: 'terminal-alert terminal-alert-success'
+          title: Done
+        - name: warning
+          class: 'terminal-alert terminal-alert-warning'
+          title: Warning
+        - name: warn
+          class: 'terminal-alert terminal-alert-warning'
+          title: Warning
+        - name: attention
+          class: 'terminal-alert terminal-alert-warning'
+          title: Attention
+        - name: caution
+          class: 'terminal-alert terminal-alert-warning'
+          title: Caution
+        - name: danger
+          class: 'terminal-alert terminal-alert-error'
+          title: Danger
+        - name: error
+          class: 'terminal-alert terminal-alert-error'
+          title: Error
+        - name: critical
+          class: 'terminal-alert terminal-alert-error'
+          title: Critical
+        - name: important
+          class: 'terminal-alert terminal-alert-primary'
+          title: Important
+        - name: question
+          class: 'terminal-alert terminal-alert-info'
+          title: Question
+        - name: todo
+          class: 'terminal-alert terminal-alert-warning'
+          title: Todo
 extra_css:
   - css/custom.css
 extra:
