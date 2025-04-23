@@ -1,6 +1,6 @@
 # Welcome to Contribot Docs
 
-/// info | Reminder
+/// info | Disclaimer
 Please read our documentation carefully before using Contribot, as most of our
 information is located here. If you have any questions, please feel free to contact 
 us via our [Discord](https://discord.gg/<link>). Enjoy!
