@@ -1,0 +1,11 @@
+# FastAPI Dep/Libs
+fastapi
+fastapi-jwt-auth
+fastapi-limiter
+fastapi-security[oauth2]
+
+# Other Dep/Libs
+gunicorn
+uvicorn
+rich
+pydantic
