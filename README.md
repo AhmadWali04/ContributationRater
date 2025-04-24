@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="/url">
-    <img src="./assets/contribot-rdme-logo.png" alt="Contributor Rater Logo" height="200">
+    <img src="./docs/assets/contribot-rdme-logo.png" alt="Contributor Rater Logo" height="200">
   </a>
 
 <h3 align="center">
