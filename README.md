@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="/url">
-    <img src="./docs/assets/contribot-rdme-logo.png" alt="Contributor Rater Logo" height="200">
+    <img src="./docs/assets/contribot-rdme-logo.png" alt="Contributor Rater Logo" height="100">
   </a>
 
 <h3 align="center">
@@ -13,9 +13,9 @@
     <br />
     <br />
     <a href="https://github.com/<repo-url>/issues">Report Bug</a>
-    ✧
+    ﹕
     <a href="https://github.com/<repo-url>/issues">Request Feature</a>
-    ✧
+    ﹕
     <a href="/">Documentation</a>
   </p>
 </div>
@@ -23,7 +23,6 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [About This Documentation](#about-this-documentation)
 - [Installation \& Usage](#installation--usage)
 - [File Content](#file-content)
 - [Contributing](#contributing)
@@ -44,7 +43,6 @@
 - [SECURITY.md](SECURITY.md) - The security policy for any project.
 - [SUPPORT.md](SUPPORT.md) - (coming soon) The support policy for any project.
 - [CODEOWNERS](CODEOWNERS) - The code owners for any project.
-
 
 ## Contributing
 
