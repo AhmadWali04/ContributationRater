@@ -1,15 +1,15 @@
 <br />
 <div align="center">
   <a href="/url">
-    <img src="./assets/cr-logo.png" alt="Contributor Rater  Logo" height="200">
+    <img src="./assets/contribot-rdme-logo.png" alt="Contributor Rater Logo" height="200">
   </a>
 
 <h3 align="center">
-    Contributor Rater (MDS)
+  Contribot
 </h3>
 
   <p align="center">
-    A simple MDS (Microsoft, Discord, and Slack) bot that keeps track of your projects core contributors.
+    A simple contribution rater bot that helps keep track of your projects core contributors with stats.
     <br />
     <br />
     <a href="https://github.com/<repo-url>/issues">Report Bug</a>
