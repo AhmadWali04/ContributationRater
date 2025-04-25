@@ -5,7 +5,7 @@
   </a>
 
 <h3 align="center">
-  Contribot
+  Contribot - Contribution Rater
 </h3>
 
   <p align="center">

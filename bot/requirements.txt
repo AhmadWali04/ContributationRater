@@ -1,10 +1,12 @@
-# MkDocs, and plugins for docs
+# MkDocs Deps/Libs
 mkdocs
 mkdocs-terminal
 plantuml-markdown
 mkdocs-redirects
 mkdocs-licenseinfo
 
-# Other dependencies / libs
+# Other Deps/Libs
 discord.py
 rich
+dotenv
+pydantic
